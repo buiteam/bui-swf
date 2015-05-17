@@ -595,7 +595,7 @@ function stringAttr(key, value) {
 }
 
 
-return SWF;
+module.exports = SWF;
 /**
  * NOTES:
  * 20130903 从kissy1.3.1移植成BUI的模块（索丘修改）

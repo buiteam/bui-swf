@@ -102,7 +102,7 @@ function fpvGTE(ver, force) {
     return getNumberVersion(fpv(force)) >= getNumberVersion(ver);
 }
 
-return {
+module.exports = {
     fpv: fpv,
     fpvGTE: fpvGTE
 };
