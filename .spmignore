@@ -1,7 +1,9 @@
 _site
 sea-modules
+spm_modules
 node_modules
 .git
 tests
 examples
 test
+dist
